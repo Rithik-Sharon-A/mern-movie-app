@@ -1,0 +1,1502 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "imdbUrl": "https://www.imdb.com/title/tt0111161/",
+        "rating": 9.3,
+        "ratingCount": 3145999
+    },
+    {
+        "title": "The Godfather",
+        "imdbUrl": "https://www.imdb.com/title/tt0068646/",
+        "rating": 9.2,
+        "ratingCount": 2195737
+    },
+    {
+        "title": "The Dark Knight",
+        "imdbUrl": "https://www.imdb.com/title/tt0468569/",
+        "rating": 9.1,
+        "ratingCount": 3121780
+    },
+    {
+        "title": "The Godfather Part II",
+        "imdbUrl": "https://www.imdb.com/title/tt0071562/",
+        "rating": 9,
+        "ratingCount": 1476183
+    },
+    {
+        "title": "12 Angry Men",
+        "imdbUrl": "https://www.imdb.com/title/tt0050083/",
+        "rating": 9,
+        "ratingCount": 969213
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "imdbUrl": "https://www.imdb.com/title/tt0167260/",
+        "rating": 9,
+        "ratingCount": 2136825
+    },
+    {
+        "title": "Schindler&apos;s List",
+        "imdbUrl": "https://www.imdb.com/title/tt0108052/",
+        "rating": 9,
+        "ratingCount": 1568854
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "imdbUrl": "https://www.imdb.com/title/tt0120737/",
+        "rating": 8.9,
+        "ratingCount": 2175787
+    },
+    {
+        "title": "Pulp Fiction",
+        "imdbUrl": "https://www.imdb.com/title/tt0110912/",
+        "rating": 8.8,
+        "ratingCount": 2404877
+    },
+    {
+        "title": "Il buono, il brutto, il cattivo",
+        "imdbUrl": "https://www.imdb.com/title/tt0060196/",
+        "rating": 8.8,
+        "ratingCount": 881980
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "imdbUrl": "https://www.imdb.com/title/tt0167261/",
+        "rating": 8.8,
+        "ratingCount": 1930682
+    },
+    {
+        "title": "Forrest Gump",
+        "imdbUrl": "https://www.imdb.com/title/tt0109830/",
+        "rating": 8.8,
+        "ratingCount": 2461082
+    },
+    {
+        "title": "Fight Club",
+        "imdbUrl": "https://www.imdb.com/title/tt0137523/",
+        "rating": 8.8,
+        "ratingCount": 2561997
+    },
+    {
+        "title": "Inception",
+        "imdbUrl": "https://www.imdb.com/title/tt1375666/",
+        "rating": 8.8,
+        "ratingCount": 2775791
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "imdbUrl": "https://www.imdb.com/title/tt0080684/",
+        "rating": 8.7,
+        "ratingCount": 1487460
+    },
+    {
+        "title": "The Matrix",
+        "imdbUrl": "https://www.imdb.com/title/tt0133093/",
+        "rating": 8.7,
+        "ratingCount": 2220319
+    },
+    {
+        "title": "GoodFellas",
+        "imdbUrl": "https://www.imdb.com/title/tt0099685/",
+        "rating": 8.7,
+        "ratingCount": 1372379
+    },
+    {
+        "title": "Interstellar",
+        "imdbUrl": "https://www.imdb.com/title/tt0816692/",
+        "rating": 8.7,
+        "ratingCount": 2464082
+    },
+    {
+        "title": "One Flew Over the Cuckoo&apos;s Nest",
+        "imdbUrl": "https://www.imdb.com/title/tt0073486/",
+        "rating": 8.6,
+        "ratingCount": 1147095
+    },
+    {
+        "title": "Se7en",
+        "imdbUrl": "https://www.imdb.com/title/tt0114369/",
+        "rating": 8.6,
+        "ratingCount": 1988961
+    },
+    {
+        "title": "It&apos;s a Wonderful Life",
+        "imdbUrl": "https://www.imdb.com/title/tt0038650/",
+        "rating": 8.6,
+        "ratingCount": 549892
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "imdbUrl": "https://www.imdb.com/title/tt0102926/",
+        "rating": 8.6,
+        "ratingCount": 1696424
+    },
+    {
+        "title": "Shichinin no samurai",
+        "imdbUrl": "https://www.imdb.com/title/tt0047478/",
+        "rating": 8.6,
+        "ratingCount": 398259
+    },
+    {
+        "title": "Saving Private Ryan",
+        "imdbUrl": "https://www.imdb.com/title/tt0120815/",
+        "rating": 8.6,
+        "ratingCount": 1617894
+    },
+    {
+        "title": "The Green Mile",
+        "imdbUrl": "https://www.imdb.com/title/tt0120689/",
+        "rating": 8.6,
+        "ratingCount": 1539833
+    },
+    {
+        "title": "Cidade de Deus",
+        "imdbUrl": "https://www.imdb.com/title/tt0317248/",
+        "rating": 8.6,
+        "ratingCount": 862064
+    },
+    {
+        "title": "La vita è bella",
+        "imdbUrl": "https://www.imdb.com/title/tt0118799/",
+        "rating": 8.6,
+        "ratingCount": 803327
+    },
+    {
+        "title": "Terminator 2: Judgment Day",
+        "imdbUrl": "https://www.imdb.com/title/tt0103064/",
+        "rating": 8.6,
+        "ratingCount": 1270182
+    },
+    {
+        "title": "Star Wars",
+        "imdbUrl": "https://www.imdb.com/title/tt0076759/",
+        "rating": 8.6,
+        "ratingCount": 1552923
+    },
+    {
+        "title": "Back to the Future",
+        "imdbUrl": "https://www.imdb.com/title/tt0088763/",
+        "rating": 8.5,
+        "ratingCount": 1431791
+    },
+    {
+        "title": "Sen to Chihiro no kamikakushi",
+        "imdbUrl": "https://www.imdb.com/title/tt0245429/",
+        "rating": 8.6,
+        "ratingCount": 951346
+    },
+    {
+        "title": "The Pianist",
+        "imdbUrl": "https://www.imdb.com/title/tt0253474/",
+        "rating": 8.5,
+        "ratingCount": 1000174
+    },
+    {
+        "title": "Gladiator",
+        "imdbUrl": "https://www.imdb.com/title/tt0172495/",
+        "rating": 8.5,
+        "ratingCount": 1823294
+    },
+    {
+        "title": "Gisaengchung",
+        "imdbUrl": "https://www.imdb.com/title/tt6751668/",
+        "rating": 8.5,
+        "ratingCount": 1134881
+    },
+    {
+        "title": "Psycho",
+        "imdbUrl": "https://www.imdb.com/title/tt0054215/",
+        "rating": 8.5,
+        "ratingCount": 777966
+    },
+    {
+        "title": "Hotaru no haka",
+        "imdbUrl": "https://www.imdb.com/title/tt0095327/",
+        "rating": 8.5,
+        "ratingCount": 375412
+    },
+    {
+        "title": "The Lion King",
+        "imdbUrl": "https://www.imdb.com/title/tt0110357/",
+        "rating": 8.5,
+        "ratingCount": 1243150
+    },
+    {
+        "title": "Seppuku",
+        "imdbUrl": "https://www.imdb.com/title/tt0056058/",
+        "rating": 8.6,
+        "ratingCount": 88740
+    },
+    {
+        "title": "The Departed",
+        "imdbUrl": "https://www.imdb.com/title/tt0407887/",
+        "rating": 8.5,
+        "ratingCount": 1535264
+    },
+    {
+        "title": "Whiplash",
+        "imdbUrl": "https://www.imdb.com/title/tt2582802/",
+        "rating": 8.5,
+        "ratingCount": 1130369
+    },
+    {
+        "title": "The Prestige",
+        "imdbUrl": "https://www.imdb.com/title/tt0482571/",
+        "rating": 8.5,
+        "ratingCount": 1566138
+    },
+    {
+        "title": "American History X",
+        "imdbUrl": "https://www.imdb.com/title/tt0120586/",
+        "rating": 8.5,
+        "ratingCount": 1261324
+    },
+    {
+        "title": "Léon",
+        "imdbUrl": "https://www.imdb.com/title/tt0110413/",
+        "rating": 8.5,
+        "ratingCount": 1338103
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "imdbUrl": "https://www.imdb.com/title/tt9362722/",
+        "rating": 8.5,
+        "ratingCount": 503564
+    },
+    {
+        "title": "Nuovo Cinema Paradiso",
+        "imdbUrl": "https://www.imdb.com/title/tt0095765/",
+        "rating": 8.5,
+        "ratingCount": 314032
+    },
+    {
+        "title": "Casablanca",
+        "imdbUrl": "https://www.imdb.com/title/tt0034583/",
+        "rating": 8.5,
+        "ratingCount": 649875
+    },
+    {
+        "title": "Intouchables",
+        "imdbUrl": "https://www.imdb.com/title/tt1675434/",
+        "rating": 8.5,
+        "ratingCount": 1012966
+    },
+    {
+        "title": "The Usual Suspects",
+        "imdbUrl": "https://www.imdb.com/title/tt0114814/",
+        "rating": 8.5,
+        "ratingCount": 1225430
+    },
+    {
+        "title": "Alien",
+        "imdbUrl": "https://www.imdb.com/title/tt0078748/",
+        "rating": 8.5,
+        "ratingCount": 1051588
+    },
+    {
+        "title": "Modern Times",
+        "imdbUrl": "https://www.imdb.com/title/tt0027977/",
+        "rating": 8.5,
+        "ratingCount": 283092
+    },
+    {
+        "title": "Django Unchained",
+        "imdbUrl": "https://www.imdb.com/title/tt1853728/",
+        "rating": 8.5,
+        "ratingCount": 1855870
+    },
+    {
+        "title": "Rear Window",
+        "imdbUrl": "https://www.imdb.com/title/tt0047396/",
+        "rating": 8.5,
+        "ratingCount": 564260
+    },
+    {
+        "title": "C&apos;era una volta il West",
+        "imdbUrl": "https://www.imdb.com/title/tt0064116/",
+        "rating": 8.5,
+        "ratingCount": 380989
+    },
+    {
+        "title": "City Lights",
+        "imdbUrl": "https://www.imdb.com/title/tt0021749/",
+        "rating": 8.5,
+        "ratingCount": 214799
+    },
+    {
+        "title": "Apocalypse Now",
+        "imdbUrl": "https://www.imdb.com/title/tt0078788/",
+        "rating": 8.4,
+        "ratingCount": 762786
+    },
+    {
+        "title": "WALL·E",
+        "imdbUrl": "https://www.imdb.com/title/tt0910970/",
+        "rating": 8.4,
+        "ratingCount": 1302930
+    },
+    {
+        "title": "Memento",
+        "imdbUrl": "https://www.imdb.com/title/tt0209144/",
+        "rating": 8.4,
+        "ratingCount": 1419342
+    },
+    {
+        "title": "Dune: Part Two",
+        "imdbUrl": "https://www.imdb.com/title/tt15239678/",
+        "rating": 8.4,
+        "ratingCount": 709500
+    },
+    {
+        "title": "Raiders of the Lost Ark",
+        "imdbUrl": "https://www.imdb.com/title/tt0082971/",
+        "rating": 8.4,
+        "ratingCount": 1101154
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "imdbUrl": "https://www.imdb.com/title/tt4154756/",
+        "rating": 8.4,
+        "ratingCount": 1346951
+    },
+    {
+        "title": "Das Leben der Anderen",
+        "imdbUrl": "https://www.imdb.com/title/tt0405094/",
+        "rating": 8.4,
+        "ratingCount": 439892
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "imdbUrl": "https://www.imdb.com/title/tt4633694/",
+        "rating": 8.4,
+        "ratingCount": 771407
+    },
+    {
+        "title": "Sunset Blvd.",
+        "imdbUrl": "https://www.imdb.com/title/tt0043014/",
+        "rating": 8.4,
+        "ratingCount": 258723
+    },
+    {
+        "title": "Witness for the Prosecution",
+        "imdbUrl": "https://www.imdb.com/title/tt0051201/",
+        "rating": 8.4,
+        "ratingCount": 159626
+    },
+    {
+        "title": "Paths of Glory",
+        "imdbUrl": "https://www.imdb.com/title/tt0050825/",
+        "rating": 8.4,
+        "ratingCount": 236406
+    },
+    {
+        "title": "The Shining",
+        "imdbUrl": "https://www.imdb.com/title/tt0081505/",
+        "rating": 8.4,
+        "ratingCount": 1209870
+    },
+    {
+        "title": "The Great Dictator",
+        "imdbUrl": "https://www.imdb.com/title/tt0032553/",
+        "rating": 8.4,
+        "ratingCount": 257462
+    },
+    {
+        "title": "Inglourious Basterds",
+        "imdbUrl": "https://www.imdb.com/title/tt0361748/",
+        "rating": 8.4,
+        "ratingCount": 1752214
+    },
+    {
+        "title": "12th Fail",
+        "imdbUrl": "https://www.imdb.com/title/tt23849204/",
+        "rating": 8.7,
+        "ratingCount": 166206
+    },
+    {
+        "title": "Aliens",
+        "imdbUrl": "https://www.imdb.com/title/tt0090605/",
+        "rating": 8.4,
+        "ratingCount": 833124
+    },
+    {
+        "title": "Tengoku to jigoku",
+        "imdbUrl": "https://www.imdb.com/title/tt0057565/",
+        "rating": 8.4,
+        "ratingCount": 69796
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "imdbUrl": "https://www.imdb.com/title/tt1345836/",
+        "rating": 8.4,
+        "ratingCount": 1969607
+    },
+    {
+        "title": "Coco",
+        "imdbUrl": "https://www.imdb.com/title/tt2380307/",
+        "rating": 8.4,
+        "ratingCount": 691361
+    },
+    {
+        "title": "Avengers: Endgame",
+        "imdbUrl": "https://www.imdb.com/title/tt4154796/",
+        "rating": 8.4,
+        "ratingCount": 1419276
+    },
+    {
+        "title": "Good Will Hunting",
+        "imdbUrl": "https://www.imdb.com/title/tt0119217/",
+        "rating": 8.3,
+        "ratingCount": 1191732
+    },
+    {
+        "title": "Amadeus",
+        "imdbUrl": "https://www.imdb.com/title/tt0086879/",
+        "rating": 8.4,
+        "ratingCount": 463451
+    },
+    {
+        "title": "Toy Story",
+        "imdbUrl": "https://www.imdb.com/title/tt0114709/",
+        "rating": 8.3,
+        "ratingCount": 1158141
+    },
+    {
+        "title": "Kimi no na wa.",
+        "imdbUrl": "https://www.imdb.com/title/tt5311514/",
+        "rating": 8.4,
+        "ratingCount": 381857
+    },
+    {
+        "title": "Das Boot",
+        "imdbUrl": "https://www.imdb.com/title/tt0082096/",
+        "rating": 8.4,
+        "ratingCount": 285669
+    },
+    {
+        "title": "Oldeuboi",
+        "imdbUrl": "https://www.imdb.com/title/tt0364569/",
+        "rating": 8.3,
+        "ratingCount": 706716
+    },
+    {
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "imdbUrl": "https://www.imdb.com/title/tt0057012/",
+        "rating": 8.3,
+        "ratingCount": 547819
+    },
+    {
+        "title": "Braveheart",
+        "imdbUrl": "https://www.imdb.com/title/tt0112573/",
+        "rating": 8.3,
+        "ratingCount": 1151614
+    },
+    {
+        "title": "Mononoke-hime",
+        "imdbUrl": "https://www.imdb.com/title/tt0119698/",
+        "rating": 8.3,
+        "ratingCount": 476934
+    },
+    {
+        "title": "American Beauty",
+        "imdbUrl": "https://www.imdb.com/title/tt0169547/",
+        "rating": 8.3,
+        "ratingCount": 1271298
+    },
+    {
+        "title": "3 Idiots",
+        "imdbUrl": "https://www.imdb.com/title/tt1187043/",
+        "rating": 8.4,
+        "ratingCount": 475456
+    },
+    {
+        "title": "Capharnaüm",
+        "imdbUrl": "https://www.imdb.com/title/tt8267604/",
+        "rating": 8.4,
+        "ratingCount": 121995
+    },
+    {
+        "title": "Joker",
+        "imdbUrl": "https://www.imdb.com/title/tt7286456/",
+        "rating": 8.3,
+        "ratingCount": 1667427
+    },
+    {
+        "title": "Singin&apos; in the Rain",
+        "imdbUrl": "https://www.imdb.com/title/tt0045152/",
+        "rating": 8.3,
+        "ratingCount": 279827
+    },
+    {
+        "title": "C&apos;era una volta in America",
+        "imdbUrl": "https://www.imdb.com/title/tt0087843/",
+        "rating": 8.3,
+        "ratingCount": 405043
+    },
+    {
+        "title": "Idi i smotri",
+        "imdbUrl": "https://www.imdb.com/title/tt0091251/",
+        "rating": 8.3,
+        "ratingCount": 119868
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "imdbUrl": "https://www.imdb.com/title/tt0086190/",
+        "rating": 8.3,
+        "ratingCount": 1195951
+    },
+    {
+        "title": "Requiem for a Dream",
+        "imdbUrl": "https://www.imdb.com/title/tt0180093/",
+        "rating": 8.3,
+        "ratingCount": 963531
+    },
+    {
+        "title": "Toy Story 3",
+        "imdbUrl": "https://www.imdb.com/title/tt0435761/",
+        "rating": 8.3,
+        "ratingCount": 958154
+    },
+    {
+        "title": "Ikiru",
+        "imdbUrl": "https://www.imdb.com/title/tt0044741/",
+        "rating": 8.3,
+        "ratingCount": 100827
+    },
+    {
+        "title": "Jagten",
+        "imdbUrl": "https://www.imdb.com/title/tt2106476/",
+        "rating": 8.3,
+        "ratingCount": 403106
+    },
+    {
+        "title": "Incendies",
+        "imdbUrl": "https://www.imdb.com/title/tt1255953/",
+        "rating": 8.3,
+        "ratingCount": 244177
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "imdbUrl": "https://www.imdb.com/title/tt0338013/",
+        "rating": 8.3,
+        "ratingCount": 1168312
+    },
+    {
+        "title": "The Apartment",
+        "imdbUrl": "https://www.imdb.com/title/tt0053604/",
+        "rating": 8.3,
+        "ratingCount": 216491
+    },
+    {
+        "title": "Lawrence of Arabia",
+        "imdbUrl": "https://www.imdb.com/title/tt0056172/",
+        "rating": 8.3,
+        "ratingCount": 338084
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "imdbUrl": "https://www.imdb.com/title/tt0062622/",
+        "rating": 8.3,
+        "ratingCount": 774086
+    },
+    {
+        "title": "Reservoir Dogs",
+        "imdbUrl": "https://www.imdb.com/title/tt0105236/",
+        "rating": 8.3,
+        "ratingCount": 1159173
+    },
+    {
+        "title": "Heat",
+        "imdbUrl": "https://www.imdb.com/title/tt0113277/",
+        "rating": 8.3,
+        "ratingCount": 789084
+    },
+    {
+        "title": "Scarface",
+        "imdbUrl": "https://www.imdb.com/title/tt0086250/",
+        "rating": 8.3,
+        "ratingCount": 1001134
+    },
+    {
+        "title": "Double Indemnity",
+        "imdbUrl": "https://www.imdb.com/title/tt0036775/",
+        "rating": 8.3,
+        "ratingCount": 179597
+    },
+    {
+        "title": "Up",
+        "imdbUrl": "https://www.imdb.com/title/tt1049413/",
+        "rating": 8.3,
+        "ratingCount": 1219282
+    },
+    {
+        "title": "North by Northwest",
+        "imdbUrl": "https://www.imdb.com/title/tt0053125/",
+        "rating": 8.3,
+        "ratingCount": 367261
+    },
+    {
+        "title": "Taare Zameen Par",
+        "imdbUrl": "https://www.imdb.com/title/tt0986264/",
+        "rating": 8.3,
+        "ratingCount": 229152
+    },
+    {
+        "title": "Full Metal Jacket",
+        "imdbUrl": "https://www.imdb.com/title/tt0093058/",
+        "rating": 8.2,
+        "ratingCount": 842530
+    },
+    {
+        "title": "M - Eine Stadt sucht einen Mörder",
+        "imdbUrl": "https://www.imdb.com/title/tt0022100/",
+        "rating": 8.3,
+        "ratingCount": 181323
+    },
+    {
+        "title": "Citizen Kane",
+        "imdbUrl": "https://www.imdb.com/title/tt0033467/",
+        "rating": 8.2,
+        "ratingCount": 490461
+    },
+    {
+        "title": "Le fabuleux destin d&apos;Amélie Poulain",
+        "imdbUrl": "https://www.imdb.com/title/tt0211915/",
+        "rating": 8.3,
+        "ratingCount": 833269
+    },
+    {
+        "title": "Vertigo",
+        "imdbUrl": "https://www.imdb.com/title/tt0052357/",
+        "rating": 8.2,
+        "ratingCount": 455627
+    },
+    {
+        "title": "Jodaeiye Nader az Simin",
+        "imdbUrl": "https://www.imdb.com/title/tt1832382/",
+        "rating": 8.3,
+        "ratingCount": 275539
+    },
+    {
+        "title": "Die Hard",
+        "imdbUrl": "https://www.imdb.com/title/tt0095016/",
+        "rating": 8.2,
+        "ratingCount": 1020414
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "imdbUrl": "https://www.imdb.com/title/tt0056592/",
+        "rating": 8.3,
+        "ratingCount": 349247
+    },
+    {
+        "title": "The Sting",
+        "imdbUrl": "https://www.imdb.com/title/tt0070735/",
+        "rating": 8.2,
+        "ratingCount": 297644
+    },
+    {
+        "title": "Indiana Jones and the Last Crusade",
+        "imdbUrl": "https://www.imdb.com/title/tt0097576/",
+        "rating": 8.2,
+        "ratingCount": 856556
+    },
+    {
+        "title": "A Clockwork Orange",
+        "imdbUrl": "https://www.imdb.com/title/tt0066921/",
+        "rating": 8.2,
+        "ratingCount": 929458
+    },
+    {
+        "title": "Metropolis",
+        "imdbUrl": "https://www.imdb.com/title/tt0017136/",
+        "rating": 8.2,
+        "ratingCount": 199319
+    },
+    {
+        "title": "Snatch",
+        "imdbUrl": "https://www.imdb.com/title/tt0208092/",
+        "rating": 8.2,
+        "ratingCount": 967522
+    },
+    {
+        "title": "1917",
+        "imdbUrl": "https://www.imdb.com/title/tt8579674/",
+        "rating": 8.2,
+        "ratingCount": 757951
+    },
+    {
+        "title": "L.A. Confidential",
+        "imdbUrl": "https://www.imdb.com/title/tt0119488/",
+        "rating": 8.2,
+        "ratingCount": 653920
+    },
+    {
+        "title": "Der Untergang",
+        "imdbUrl": "https://www.imdb.com/title/tt0363163/",
+        "rating": 8.2,
+        "ratingCount": 397079
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "imdbUrl": "https://www.imdb.com/title/tt0993846/",
+        "rating": 8.2,
+        "ratingCount": 1754148
+    },
+    {
+        "title": "Dangal",
+        "imdbUrl": "https://www.imdb.com/title/tt5074352/",
+        "rating": 8.3,
+        "ratingCount": 238524
+    },
+    {
+        "title": "Ladri di biciclette",
+        "imdbUrl": "https://www.imdb.com/title/tt0040522/",
+        "rating": 8.2,
+        "ratingCount": 190914
+    },
+    {
+        "title": "Oppenheimer",
+        "imdbUrl": "https://www.imdb.com/title/tt15398776/",
+        "rating": 8.2,
+        "ratingCount": 991915
+    },
+    {
+        "title": "The Truman Show",
+        "imdbUrl": "https://www.imdb.com/title/tt0120382/",
+        "rating": 8.2,
+        "ratingCount": 1345246
+    },
+    {
+        "title": "Green Book",
+        "imdbUrl": "https://www.imdb.com/title/tt6966692/",
+        "rating": 8.2,
+        "ratingCount": 669820
+    },
+    {
+        "title": "Shutter Island",
+        "imdbUrl": "https://www.imdb.com/title/tt1130884/",
+        "rating": 8.2,
+        "ratingCount": 1614088
+    },
+    {
+        "title": "Judgment at Nuremberg",
+        "imdbUrl": "https://www.imdb.com/title/tt0055031/",
+        "rating": 8.3,
+        "ratingCount": 95380
+    },
+    {
+        "title": "Batman Begins",
+        "imdbUrl": "https://www.imdb.com/title/tt0372784/",
+        "rating": 8.2,
+        "ratingCount": 1692683
+    },
+    {
+        "title": "Hamilton",
+        "imdbUrl": "https://www.imdb.com/title/tt8503618/",
+        "rating": 8.3,
+        "ratingCount": 136460
+    },
+    {
+        "title": "Taxi Driver",
+        "imdbUrl": "https://www.imdb.com/title/tt0075314/",
+        "rating": 8.2,
+        "ratingCount": 1012153
+    },
+    {
+        "title": "Per qualche dollaro in più",
+        "imdbUrl": "https://www.imdb.com/title/tt0059578/",
+        "rating": 8.2,
+        "ratingCount": 296879
+    },
+    {
+        "title": "Jurassic Park",
+        "imdbUrl": "https://www.imdb.com/title/tt0107290/",
+        "rating": 8.2,
+        "ratingCount": 1161036
+    },
+    {
+        "title": "Some Like It Hot",
+        "imdbUrl": "https://www.imdb.com/title/tt0053291/",
+        "rating": 8.2,
+        "ratingCount": 302397
+    },
+    {
+        "title": "There Will Be Blood",
+        "imdbUrl": "https://www.imdb.com/title/tt0469494/",
+        "rating": 8.2,
+        "ratingCount": 698224
+    },
+    {
+        "title": "The Kid",
+        "imdbUrl": "https://www.imdb.com/title/tt0012349/",
+        "rating": 8.2,
+        "ratingCount": 144455
+    },
+    {
+        "title": "The Father",
+        "imdbUrl": "https://www.imdb.com/title/tt10272386/",
+        "rating": 8.2,
+        "ratingCount": 240113
+    },
+    {
+        "title": "All About Eve",
+        "imdbUrl": "https://www.imdb.com/title/tt0042192/",
+        "rating": 8.2,
+        "ratingCount": 147976
+    },
+    {
+        "title": "The Sixth Sense",
+        "imdbUrl": "https://www.imdb.com/title/tt0167404/",
+        "rating": 8.2,
+        "ratingCount": 1130725
+    },
+    {
+        "title": "Ran",
+        "imdbUrl": "https://www.imdb.com/title/tt0089881/",
+        "rating": 8.2,
+        "ratingCount": 149783
+    },
+    {
+        "title": "Casino",
+        "imdbUrl": "https://www.imdb.com/title/tt0112641/",
+        "rating": 8.2,
+        "ratingCount": 611269
+    },
+    {
+        "title": "No Country for Old Men",
+        "imdbUrl": "https://www.imdb.com/title/tt0477348/",
+        "rating": 8.2,
+        "ratingCount": 1169378
+    },
+    {
+        "title": "The Thing",
+        "imdbUrl": "https://www.imdb.com/title/tt0084787/",
+        "rating": 8.2,
+        "ratingCount": 518579
+    },
+    {
+        "title": "Top Gun: Maverick",
+        "imdbUrl": "https://www.imdb.com/title/tt1745960/",
+        "rating": 8.2,
+        "ratingCount": 839570
+    },
+    {
+        "title": "Prisoners",
+        "imdbUrl": "https://www.imdb.com/title/tt1392214/",
+        "rating": 8.2,
+        "ratingCount": 914672
+    },
+    {
+        "title": "El laberinto del fauno",
+        "imdbUrl": "https://www.imdb.com/title/tt0457430/",
+        "rating": 8.2,
+        "ratingCount": 741369
+    },
+    {
+        "title": "Kill Bill: Vol. 1",
+        "imdbUrl": "https://www.imdb.com/title/tt0266697/",
+        "rating": 8.2,
+        "ratingCount": 1288927
+    },
+    {
+        "title": "Unforgiven",
+        "imdbUrl": "https://www.imdb.com/title/tt0105695/",
+        "rating": 8.2,
+        "ratingCount": 464532
+    },
+    {
+        "title": "A Beautiful Mind",
+        "imdbUrl": "https://www.imdb.com/title/tt0268978/",
+        "rating": 8.2,
+        "ratingCount": 1044711
+    },
+    {
+        "title": "The Treasure of the Sierra Madre",
+        "imdbUrl": "https://www.imdb.com/title/tt0040897/",
+        "rating": 8.2,
+        "ratingCount": 140312
+    },
+    {
+        "title": "Hauru no ugoku shiro",
+        "imdbUrl": "https://www.imdb.com/title/tt0347149/",
+        "rating": 8.2,
+        "ratingCount": 503678
+    },
+    {
+        "title": "Finding Nemo",
+        "imdbUrl": "https://www.imdb.com/title/tt0266543/",
+        "rating": 8.2,
+        "ratingCount": 1193383
+    },
+    {
+        "title": "Yôjinbô",
+        "imdbUrl": "https://www.imdb.com/title/tt0055630/",
+        "rating": 8.2,
+        "ratingCount": 141641
+    },
+    {
+        "title": "Klaus",
+        "imdbUrl": "https://www.imdb.com/title/tt4729430/",
+        "rating": 8.2,
+        "ratingCount": 231738
+    },
+    {
+        "title": "The Great Escape",
+        "imdbUrl": "https://www.imdb.com/title/tt0057115/",
+        "rating": 8.2,
+        "ratingCount": 275169
+    },
+    {
+        "title": "Hababam Sinifi: Sinifta Kaldi",
+        "imdbUrl": "https://www.imdb.com/title/tt0252488/",
+        "rating": 8.5,
+        "ratingCount": 29543
+    },
+    {
+        "title": "The Elephant Man",
+        "imdbUrl": "https://www.imdb.com/title/tt0080678/",
+        "rating": 8.2,
+        "ratingCount": 279541
+    },
+    {
+        "title": "Monty Python and the Holy Grail",
+        "imdbUrl": "https://www.imdb.com/title/tt0071853/",
+        "rating": 8.2,
+        "ratingCount": 599075
+    },
+    {
+        "title": "La meglio gioventù",
+        "imdbUrl": "https://www.imdb.com/title/tt0346336/",
+        "rating": 8.4,
+        "ratingCount": 27402
+    },
+    {
+        "title": "Dial M for Murder",
+        "imdbUrl": "https://www.imdb.com/title/tt0046912/",
+        "rating": 8.2,
+        "ratingCount": 202932
+    },
+    {
+        "title": "Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen",
+        "imdbUrl": "https://www.imdb.com/title/tt32820897/",
+        "rating": 8.4,
+        "ratingCount": 60451
+    },
+    {
+        "title": "Gone with the Wind",
+        "imdbUrl": "https://www.imdb.com/title/tt0031381/",
+        "rating": 8.2,
+        "ratingCount": 353714
+    },
+    {
+        "title": "El secreto de sus ojos",
+        "imdbUrl": "https://www.imdb.com/title/tt1305806/",
+        "rating": 8.2,
+        "ratingCount": 239503
+    },
+    {
+        "title": "Chinatown",
+        "imdbUrl": "https://www.imdb.com/title/tt0071315/",
+        "rating": 8.1,
+        "ratingCount": 373749
+    },
+    {
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "imdbUrl": "https://www.imdb.com/title/tt0120735/",
+        "rating": 8.1,
+        "ratingCount": 645935
+    },
+    {
+        "title": "V for Vendetta",
+        "imdbUrl": "https://www.imdb.com/title/tt0434409/",
+        "rating": 8.1,
+        "ratingCount": 1236995
+    },
+    {
+        "title": "Inside Out",
+        "imdbUrl": "https://www.imdb.com/title/tt2096673/",
+        "rating": 8.1,
+        "ratingCount": 899810
+    },
+    {
+        "title": "Rashômon",
+        "imdbUrl": "https://www.imdb.com/title/tt0042876/",
+        "rating": 8.1,
+        "ratingCount": 194569
+    },
+    {
+        "title": "Catch Me If You Can",
+        "imdbUrl": "https://www.imdb.com/title/tt0264464/",
+        "rating": 8.1,
+        "ratingCount": 1212924
+    },
+    {
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "imdbUrl": "https://www.imdb.com/title/tt5027774/",
+        "rating": 8.1,
+        "ratingCount": 598963
+    },
+    {
+        "title": "Trainspotting",
+        "imdbUrl": "https://www.imdb.com/title/tt0117951/",
+        "rating": 8.1,
+        "ratingCount": 763311
+    },
+    {
+        "title": "The Bridge on the River Kwai",
+        "imdbUrl": "https://www.imdb.com/title/tt0050212/",
+        "rating": 8.1,
+        "ratingCount": 246915
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "imdbUrl": "https://www.imdb.com/title/tt1201607/",
+        "rating": 8.1,
+        "ratingCount": 1031497
+    },
+    {
+        "title": "Dead Poets Society",
+        "imdbUrl": "https://www.imdb.com/title/tt0097165/",
+        "rating": 8.1,
+        "ratingCount": 634207
+    },
+    {
+        "title": "Fargo",
+        "imdbUrl": "https://www.imdb.com/title/tt0116282/",
+        "rating": 8.1,
+        "ratingCount": 776835
+    },
+    {
+        "title": "The Wild Robot",
+        "imdbUrl": "https://www.imdb.com/title/tt29623480/",
+        "rating": 8.2,
+        "ratingCount": 211245
+    },
+    {
+        "title": "Warrior",
+        "imdbUrl": "https://www.imdb.com/title/tt1291584/",
+        "rating": 8.1,
+        "ratingCount": 524592
+    },
+    {
+        "title": "Raging Bull",
+        "imdbUrl": "https://www.imdb.com/title/tt0081398/",
+        "rating": 8.1,
+        "ratingCount": 406084
+    },
+    {
+        "title": "Barry Lyndon",
+        "imdbUrl": "https://www.imdb.com/title/tt0072684/",
+        "rating": 8.1,
+        "ratingCount": 201304
+    },
+    {
+        "title": "Ben-Hur",
+        "imdbUrl": "https://www.imdb.com/title/tt0052618/",
+        "rating": 8.1,
+        "ratingCount": 269010
+    },
+    {
+        "title": "Million Dollar Baby",
+        "imdbUrl": "https://www.imdb.com/title/tt0405159/",
+        "rating": 8.1,
+        "ratingCount": 760134
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "imdbUrl": "https://www.imdb.com/title/tt1392190/",
+        "rating": 8.1,
+        "ratingCount": 1194915
+    },
+    {
+        "title": "Gran Torino",
+        "imdbUrl": "https://www.imdb.com/title/tt1205489/",
+        "rating": 8.1,
+        "ratingCount": 855267
+    },
+    {
+        "title": "Tonari no Totoro",
+        "imdbUrl": "https://www.imdb.com/title/tt0096283/",
+        "rating": 8.1,
+        "ratingCount": 424270
+    },
+    {
+        "title": "Bacheha-ye aseman",
+        "imdbUrl": "https://www.imdb.com/title/tt0118849/",
+        "rating": 8.2,
+        "ratingCount": 88829
+    },
+    {
+        "title": "Hacksaw Ridge",
+        "imdbUrl": "https://www.imdb.com/title/tt2119532/",
+        "rating": 8.1,
+        "ratingCount": 667520
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "imdbUrl": "https://www.imdb.com/title/tt2278388/",
+        "rating": 8.1,
+        "ratingCount": 954168
+    },
+    {
+        "title": "12 Years a Slave",
+        "imdbUrl": "https://www.imdb.com/title/tt2024544/",
+        "rating": 8.1,
+        "ratingCount": 779781
+    },
+    {
+        "title": "Before Sunrise",
+        "imdbUrl": "https://www.imdb.com/title/tt0112471/",
+        "rating": 8.1,
+        "ratingCount": 371669
+    },
+    {
+        "title": "Ratatouille",
+        "imdbUrl": "https://www.imdb.com/title/tt0382932/",
+        "rating": 8.1,
+        "ratingCount": 926173
+    },
+    {
+        "title": "Blade Runner",
+        "imdbUrl": "https://www.imdb.com/title/tt0083658/",
+        "rating": 8.1,
+        "ratingCount": 873522
+    },
+    {
+        "title": "Salinui chueok",
+        "imdbUrl": "https://www.imdb.com/title/tt0353969/",
+        "rating": 8.1,
+        "ratingCount": 259286
+    },
+    {
+        "title": "How to Train Your Dragon",
+        "imdbUrl": "https://www.imdb.com/title/tt0892769/",
+        "rating": 8.1,
+        "ratingCount": 879999
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "imdbUrl": "https://www.imdb.com/title/tt10872600/",
+        "rating": 8.2,
+        "ratingCount": 997571
+    },
+    {
+        "title": "Gone Girl",
+        "imdbUrl": "https://www.imdb.com/title/tt2267998/",
+        "rating": 8.1,
+        "ratingCount": 1154233
+    },
+    {
+        "title": "Monsters, Inc.",
+        "imdbUrl": "https://www.imdb.com/title/tt0198781/",
+        "rating": 8.1,
+        "ratingCount": 1060662
+    },
+    {
+        "title": "Jaws",
+        "imdbUrl": "https://www.imdb.com/title/tt0073195/",
+        "rating": 8.1,
+        "ratingCount": 728005
+    },
+    {
+        "title": "In the Name of the Father",
+        "imdbUrl": "https://www.imdb.com/title/tt0107207/",
+        "rating": 8.1,
+        "ratingCount": 201008
+    },
+    {
+        "title": "Ford v Ferrari",
+        "imdbUrl": "https://www.imdb.com/title/tt1950186/",
+        "rating": 8.1,
+        "ratingCount": 557689
+    },
+    {
+        "title": "Relatos salvajes",
+        "imdbUrl": "https://www.imdb.com/title/tt3011894/",
+        "rating": 8.1,
+        "ratingCount": 235567
+    },
+    {
+        "title": "The Gold Rush",
+        "imdbUrl": "https://www.imdb.com/title/tt0015864/",
+        "rating": 8.1,
+        "ratingCount": 127168
+    },
+    {
+        "title": "Sherlock Jr.",
+        "imdbUrl": "https://www.imdb.com/title/tt0015324/",
+        "rating": 8.1,
+        "ratingCount": 64712
+    },
+    {
+        "title": "Mary and Max.",
+        "imdbUrl": "https://www.imdb.com/title/tt0978762/",
+        "rating": 8.1,
+        "ratingCount": 200278
+    },
+    {
+        "title": "The Deer Hunter",
+        "imdbUrl": "https://www.imdb.com/title/tt0077416/",
+        "rating": 8.1,
+        "ratingCount": 383674
+    },
+    {
+        "title": "Le salaire de la peur",
+        "imdbUrl": "https://www.imdb.com/title/tt0046268/",
+        "rating": 8.1,
+        "ratingCount": 72756
+    },
+    {
+        "title": "The General",
+        "imdbUrl": "https://www.imdb.com/title/tt0017925/",
+        "rating": 8.1,
+        "ratingCount": 105253
+    },
+    {
+        "title": "Logan",
+        "imdbUrl": "https://www.imdb.com/title/tt3315342/",
+        "rating": 8.1,
+        "ratingCount": 915045
+    },
+    {
+        "title": "Mr. Smith Goes to Washington",
+        "imdbUrl": "https://www.imdb.com/title/tt0031679/",
+        "rating": 8.1,
+        "ratingCount": 128626
+    },
+    {
+        "title": "Rocky",
+        "imdbUrl": "https://www.imdb.com/title/tt0075148/",
+        "rating": 8.1,
+        "ratingCount": 680212
+    },
+    {
+        "title": "On the Waterfront",
+        "imdbUrl": "https://www.imdb.com/title/tt0047296/",
+        "rating": 8.1,
+        "ratingCount": 176370
+    },
+    {
+        "title": "Tôkyô monogatari",
+        "imdbUrl": "https://www.imdb.com/title/tt0046438/",
+        "rating": 8.1,
+        "ratingCount": 76692
+    },
+    {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "imdbUrl": "https://www.imdb.com/title/tt0325980/",
+        "rating": 8.1,
+        "ratingCount": 1306162
+    },
+    {
+        "title": "Smultronstället",
+        "imdbUrl": "https://www.imdb.com/title/tt0050986/",
+        "rating": 8.1,
+        "ratingCount": 123427
+    },
+    {
+        "title": "Spotlight",
+        "imdbUrl": "https://www.imdb.com/title/tt1895587/",
+        "rating": 8.1,
+        "ratingCount": 530371
+    },
+    {
+        "title": "La haine",
+        "imdbUrl": "https://www.imdb.com/title/tt0113247/",
+        "rating": 8.1,
+        "ratingCount": 221706
+    },
+    {
+        "title": "The Third Man",
+        "imdbUrl": "https://www.imdb.com/title/tt0041959/",
+        "rating": 8.1,
+        "ratingCount": 193756
+    },
+    {
+        "title": "Maharaja",
+        "imdbUrl": "https://www.imdb.com/title/tt26548265/",
+        "rating": 8.3,
+        "ratingCount": 78792
+    },
+    {
+        "title": "The Terminator",
+        "imdbUrl": "https://www.imdb.com/title/tt0088247/",
+        "rating": 8.1,
+        "ratingCount": 992150
+    },
+    {
+        "title": "Jai Bhim",
+        "imdbUrl": "https://www.imdb.com/title/tt15097216/",
+        "rating": 8.6,
+        "ratingCount": 232556
+    },
+    {
+        "title": "The Sound of Music",
+        "imdbUrl": "https://www.imdb.com/title/tt0059742/",
+        "rating": 8.1,
+        "ratingCount": 287885
+    },
+    {
+        "title": "Koe no katachi",
+        "imdbUrl": "https://www.imdb.com/title/tt5323662/",
+        "rating": 8.2,
+        "ratingCount": 135059
+    },
+    {
+        "title": "The Big Lebowski",
+        "imdbUrl": "https://www.imdb.com/title/tt0118715/",
+        "rating": 8.1,
+        "ratingCount": 909346
+    },
+    {
+        "title": "The Best Years of Our Lives",
+        "imdbUrl": "https://www.imdb.com/title/tt0036868/",
+        "rating": 8.1,
+        "ratingCount": 76749
+    },
+    {
+        "title": "Det sjunde inseglet",
+        "imdbUrl": "https://www.imdb.com/title/tt0050976/",
+        "rating": 8.1,
+        "ratingCount": 214077
+    },
+    {
+        "title": "Room",
+        "imdbUrl": "https://www.imdb.com/title/tt3170832/",
+        "rating": 8.1,
+        "ratingCount": 476683
+    },
+    {
+        "title": "Before Sunset",
+        "imdbUrl": "https://www.imdb.com/title/tt0381681/",
+        "rating": 8.1,
+        "ratingCount": 311088
+    },
+    {
+        "title": "Hotel Rwanda",
+        "imdbUrl": "https://www.imdb.com/title/tt0395169/",
+        "rating": 8.1,
+        "ratingCount": 389661
+    },
+    {
+        "title": "Platoon",
+        "imdbUrl": "https://www.imdb.com/title/tt0091763/",
+        "rating": 8.1,
+        "ratingCount": 467547
+    },
+    {
+        "title": "Gekijô-ban Chensô Man Reze-hen",
+        "imdbUrl": "https://www.imdb.com/title/tt30472557/",
+        "rating": 8.4,
+        "ratingCount": 41238
+    },
+    {
+        "title": "The Incredibles",
+        "imdbUrl": "https://www.imdb.com/title/tt0317705/",
+        "rating": 8,
+        "ratingCount": 887312
+    },
+    {
+        "title": "Hachi: A Dog&apos;s Tale",
+        "imdbUrl": "https://www.imdb.com/title/tt1028532/",
+        "rating": 8.1,
+        "ratingCount": 338645
+    },
+    {
+        "title": "The Exorcist",
+        "imdbUrl": "https://www.imdb.com/title/tt0070047/",
+        "rating": 8.1,
+        "ratingCount": 493320
+    },
+    {
+        "title": "Rush",
+        "imdbUrl": "https://www.imdb.com/title/tt1979320/",
+        "rating": 8.1,
+        "ratingCount": 552670
+    },
+    {
+        "title": "The Wizard of Oz",
+        "imdbUrl": "https://www.imdb.com/title/tt0032138/",
+        "rating": 8.1,
+        "ratingCount": 463265
+    },
+    {
+        "title": "Stand by Me",
+        "imdbUrl": "https://www.imdb.com/title/tt0092005/",
+        "rating": 8.1,
+        "ratingCount": 480339
+    },
+    {
+        "title": "The Iron Giant",
+        "imdbUrl": "https://www.imdb.com/title/tt0129167/",
+        "rating": 8.1,
+        "ratingCount": 255734
+    },
+    {
+        "title": "La passion de Jeanne d&apos;Arc",
+        "imdbUrl": "https://www.imdb.com/title/tt0019254/",
+        "rating": 8.1,
+        "ratingCount": 67361
+    },
+    {
+        "title": "Babam ve Oglum",
+        "imdbUrl": "https://www.imdb.com/title/tt0476735/",
+        "rating": 8.2,
+        "ratingCount": 99771
+    },
+    {
+        "title": "La battaglia di Algeri",
+        "imdbUrl": "https://www.imdb.com/title/tt0058946/",
+        "rating": 8.1,
+        "ratingCount": 74505
+    },
+    {
+        "title": "Marty Supreme",
+        "imdbUrl": "https://www.imdb.com/title/tt32916440/",
+        "rating": 8.2,
+        "ratingCount": 36358
+    },
+    {
+        "title": "Ah-ga-ssi",
+        "imdbUrl": "https://www.imdb.com/title/tt4016934/",
+        "rating": 8.1,
+        "ratingCount": 198362
+    },
+    {
+        "title": "Network",
+        "imdbUrl": "https://www.imdb.com/title/tt0074958/",
+        "rating": 8.1,
+        "ratingCount": 184002
+    },
+    {
+        "title": "Gangs of Wasseypur",
+        "imdbUrl": "https://www.imdb.com/title/tt1954470/",
+        "rating": 8.2,
+        "ratingCount": 112645
+    },
+    {
+        "title": "To Be or Not to Be",
+        "imdbUrl": "https://www.imdb.com/title/tt0035446/",
+        "rating": 8.1,
+        "ratingCount": 49139
+    },
+    {
+        "title": "Drishyam",
+        "imdbUrl": "https://www.imdb.com/title/tt4430212/",
+        "rating": 8.2,
+        "ratingCount": 106770
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "imdbUrl": "https://www.imdb.com/title/tt0032551/",
+        "rating": 8.1,
+        "ratingCount": 107552
+    },
+    {
+        "title": "Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen",
+        "imdbUrl": "https://www.imdb.com/title/tt11032374/",
+        "rating": 8.2,
+        "ratingCount": 97684
+    }
+]
